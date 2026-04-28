@@ -1,54 +1,44 @@
 # 👋 Hi, I'm JF
 
-💻 Programming since a young age  
-🔧 Arduino & Embedded Systems  
+💻 Developer focused on software and embedded systems  
 🎓 Future Computer Engineering student (PUC-Rio)
 
 ---
 
-## 🚀 About Me
+## 🚀 Projects
 
-I started programming early, focusing on **Arduino and microcontrollers**, where I developed strong logic and hardware interaction skills.
+### 📊 Habit Tracker
+Track habits, streaks, and visualize progress  
+🔗 https://github.com/N0rd9/Habit-Tracker-with-Data-Visualization
 
-I'm currently improving my knowledge in **software development and computer science**, aiming to study **Computer Engineering at PUC-Rio**.
+### 🌐 Portfolio Website
+Full-stack website with Flask backend  
+🔗 https://github.com/N0rd9/dev-portfolio-website
+
+### ⚡ Algorithm Visualizer
+Visual representation of sorting algorithms  
+🔗 https://github.com/N0rd9
 
 ---
 
 ## 🧠 Skills
 
+- Python
 - C / C++
 - Arduino
-- Embedded Systems
-- Problem Solving
-- Hardware–Software Integration
-
----
-
-## 🔧 Projects (Highlighted)
-
-🚧 More coming soon — actively building projects
-
----
-
-## 📚 Currently Learning
-
-- Algorithms
-- Data Structures
-- Full-Stack Development
-- Computer Engineering fundamentals
+- Flask
+- Git
 
 ---
 
 ## 🎯 Goals
 
-- Enter PUC-Rio (Computer Engineering)
-- Build real-world technical projects
-- Become a strong software/embedded engineer
+- Study Computer Engineering at PUC-Rio  
+- Build real-world systems  
+- Improve software engineering skills  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=N0rd9&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rd9&layout=compact)
