@@ -1,6 +1,6 @@
 # Hi, I'm JF
 
-Developer focused on practical software projects, embedded systems, and clean engineering fundamentals. I'm building a portfolio around Python desktop apps, Flask web apps, Arduino automation, and algorithm visualization.
+I'm a student learning software development, embedded systems, and engineering fundamentals. I'm not a professional developer yet; I'm building this portfolio to practice, document my progress, and turn what I learn into real projects.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -43,6 +43,7 @@ An Arduino automation project that reads analog sensor values and controls an LE
 
 ## Goals
 
+- Grow as a Computer Engineering student
 - Study Computer Engineering at PUC-Rio
 - Build projects that connect software, systems, and real-world interaction
 - Keep improving full-stack, desktop, and embedded systems skills
