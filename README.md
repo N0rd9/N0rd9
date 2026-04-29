@@ -1,57 +1,53 @@
-# 👋 Hi, I'm JF
+# Hi, I'm JF
 
-💻 Developer focused on software and embedded systems  
-🎓 Future Computer Engineering student (PUC-Rio)
+Developer focused on practical software projects, embedded systems, and clean engineering fundamentals. I'm building a portfolio around Python desktop apps, Flask web apps, Arduino automation, and algorithm visualization.
 
----
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-## 🚀 Featured Projects
+## Focus
 
-### 📊 Habit Tracker with Data Visualization
-A desktop app to track habits, calculate streaks, and visualize progress.
-- Tkinter UI
-- Data persistence (JSON)
-- Charts with matplotlib  
-🔗 https://github.com/N0rd9/Habit-Tracker-with-Data-Visualization
+- Software engineering fundamentals: data structures, algorithms, persistence, and modular design
+- Desktop applications with Python, Tkinter, JSON, SQLite, and Matplotlib
+- Web development with HTML, CSS, JavaScript, Flask, and local data workflows
+- Embedded systems with Arduino, sensors, thresholds, and real-time control
 
----
+## Featured Projects
 
-### 🌐 Dev Portfolio Website
-Full-stack personal website with a Flask backend and contact system.
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Flask  
-- Stores messages locally  
-🔗 https://github.com/N0rd9/dev-portfolio-website
+### [Habit Tracker with Data Visualization](https://github.com/N0rd9/Habit-Tracker-with-Data-Visualization)
+A Python desktop app for tracking habits, calculating streaks, visualizing progress, exporting CSV data, and storing records locally with JSON.
 
----
+**Built with:** Python, Tkinter, Matplotlib, JSON
 
-### ⚡ Algorithm Visualizer
-Visual tool to understand sorting algorithms step-by-step.
-- Bubble Sort / Selection Sort  
-- Interactive visualization  
-🔗 https://github.com/N0rd9
+### [Local File Search Engine](https://github.com/N0rd9/local-file-search-engine)
+A modular desktop search tool with folder indexing, SQLite persistence, fuzzy matching, file type filtering, and double-click file opening.
 
----
+**Built with:** Python, Tkinter, SQLite, difflib
 
-## 🧠 Skills
+### [Algorithm Visualizer](https://github.com/N0rd9/algorithm-visualizer)
+An interactive sorting visualizer for studying algorithms step by step with generated arrays, speed control, and color-coded comparisons.
 
-- Python  
-- C / C++  
-- Arduino  
-- Flask  
-- Git & GitHub  
+**Built with:** Python, Tkinter
 
----
+### [Dev Portfolio Website](https://github.com/N0rd9/dev-portfolio-website)
+A personal portfolio website with a Flask backend and contact endpoint that stores submitted messages locally.
 
-## 🎯 Goals
+**Built with:** Flask, HTML, CSS, JavaScript, JSON
 
-- Study Computer Engineering at PUC-Rio  
-- Build real-world projects  
-- Improve full-stack and embedded systems skills  
+### [Arduino Smart Sensor System](https://github.com/N0rd9/arduino-smart-system)
+An Arduino automation project that reads analog sensor values and controls an LED based on a configurable threshold.
 
----
+**Built with:** Arduino, C/C++
 
-## 📊 GitHub Stats
+## Goals
 
-![Stats](https://github-readme-stats.vercel.app/api?username=N0rd9&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rd9&layout=compact)
+- Study Computer Engineering at PUC-Rio
+- Build projects that connect software, systems, and real-world interaction
+- Keep improving full-stack, desktop, and embedded systems skills
+
+## GitHub Stats
+
+![JF's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rd9&show_icons=true&hide_border=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rd9&layout=compact&hide_border=true&theme=transparent)
